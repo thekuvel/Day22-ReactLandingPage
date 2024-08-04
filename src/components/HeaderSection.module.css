@@ -1,0 +1,15 @@
+.wrapper{
+    margin: 20px auto;
+}
+
+.buttonCol {
+    display: grid;
+    
+}
+
+.button {
+    width: 90px;
+    height: 50px;
+    justify-self: end;   
+}
+

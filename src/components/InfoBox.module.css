@@ -1,0 +1,13 @@
+.imagebox {
+    height: 30rem;
+    
+}
+
+.imagebox img {
+    height: 100%;
+    width: 100%;
+}
+
+.textBox {
+    padding: 0 50px;
+}

@@ -1,0 +1,15 @@
+
+.card {
+    width: 320px;
+}
+
+.imageURL {
+    height: 72px;
+    width: 72px;
+}
+
+.profileImg {
+    height: 192px;
+    width: 192px;
+    border-radius: 50%;
+}
